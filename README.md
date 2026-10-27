@@ -11,7 +11,7 @@ Official Helm chart for deploying OpenGym on Kubernetes.
 ### 1. Add the Helm Repository
 
 ```bash
-helm repo add boxstep [https://boxstep.github.io/opengym-helm/](https://boxstep.github.io/opengym-helm/)
+helm repo add boxstep https://boxstep.github.io/opengym-helm/
 helm repo update
 helm install opengym boxstep/opengym-helm -f values.yaml 
 ```
