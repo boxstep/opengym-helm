@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  opengym:
+  - apiVersion: v2
+    appVersion: 1.4.3
+    created: "2026-10-27T18:09:19.045014069Z"
+    description: A self-hosted gym and body-weight tracker you actually own.
+    digest: 5181d3457186329747cab91cef7ff7c479e9ca525a5eb5fdfbb4ebc696f1905b
+    name: opengym
+    type: application
+    urls:
+    - https://github.com/boxstep/opengym-helm/releases/download/opengym-0.2.3/opengym-0.2.3.tgz
+    version: 0.2.3
+generated: "2026-10-27T18:09:19.04501997Z"
