@@ -8,7 +8,6 @@ fullnameOverride: ""
 
 serviceAccount:
   create: true
-  # openGym never talks to the Kubernetes API.
   automount: false
   annotations: {}
   name: ""
